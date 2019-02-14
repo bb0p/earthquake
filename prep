@@ -1,6 +1,4 @@
 sudo kaggle competitions download -c LANL-Earthquake-Prediction
-mkdir test
-mkdir train
 unzip train.csv.zip -d train
-unzip test.csv.zip -d test
+unzip test.zip -d test
 
